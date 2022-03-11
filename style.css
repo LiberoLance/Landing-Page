@@ -2,6 +2,9 @@
   background: #1c1a3a;
   color: white;
   padding: 0 24px;
+}
+
+.top-upper {
   display: flex;
   justify-content: space-between;
   align-items: center;
@@ -13,4 +16,26 @@ ul {
   margin: 0;
   display: flex;
   gap: 12px;
+}
+
+.top-lower {
+  display:flex;
+  justify-content: space-between;
+  align-items: center;
+  flex: 1;
+  padding: 32px 24px;
+}
+
+.tlc {
+  width: 50%;
+}
+
+p {
+  color: lightgray;
+}
+
+button {
+  color: white;
+  background: cornflowerblue;
+  padding: 16px;
 }
