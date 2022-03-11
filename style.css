@@ -39,3 +39,13 @@ button {
   background: cornflowerblue;
   padding: 8px;
 }
+
+.top-mid {
+  text-align: center;
+  padding: 32px;
+}
+
+.tmc {
+  display: flex;
+  flex: 1;
+}
