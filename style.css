@@ -49,3 +49,13 @@ button {
   display: flex;
   flex: 1;
 }
+
+.low-mid {
+  padding: 24px;
+  background: lightgray;
+}
+
+strong {
+  display: flex;
+  justify-content: end;
+}
