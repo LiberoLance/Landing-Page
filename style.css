@@ -50,7 +50,7 @@ button {
   flex: 1;
 }
 
-.low-mid {
+.mid-mid {
   padding: 24px;
   background: lightgray;
 }
@@ -59,3 +59,4 @@ strong {
   display: flex;
   justify-content: end;
 }
+
