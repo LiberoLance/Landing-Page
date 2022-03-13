@@ -60,3 +60,27 @@ strong {
   justify-content: end;
 }
 
+.low-mid {
+  display: flex;
+  justify-content: center;
+  background: white;
+  padding: 24px;
+}
+
+.lmc {
+  display: flex;
+  gap: 32px;
+  align-items: center;
+  background: cornflowerblue;
+  padding: 24px;
+}
+
+h1 {
+  color: white;
+}
+
+button .lmc {
+  width: 100px;
+  height: 64px;
+  border: solid;
+}
