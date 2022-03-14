@@ -1,5 +1,4 @@
 .top {
-  background: #1c1a3a;
   color: white;
   padding: 0 24px;
 }
@@ -85,4 +84,14 @@ button.lmc {
   border: solid;
   border-radius: 8px;
   border-color: white;
+}
+
+.footer {
+  text-align: center;
+  color: white;
+  padding: 24px;
+}
+
+.footer, .top {
+  background: #1c1a3a;
 }
