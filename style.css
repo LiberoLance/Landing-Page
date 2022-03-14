@@ -79,8 +79,10 @@ h1 {
   color: white;
 }
 
-button .lmc {
+button.lmc {
   width: 100px;
-  height: 64px;
+  height: 50px;
   border: solid;
+  border-radius: 8px;
+  border-color: white;
 }
