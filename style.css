@@ -71,6 +71,7 @@ strong {
   gap: 32px;
   align-items: center;
   background: cornflowerblue;
+  boder-radius: 24px;
   padding: 24px;
 }
 
