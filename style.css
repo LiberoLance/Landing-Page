@@ -22,6 +22,10 @@ a {
   color: white;
 }
 
+a:visited {
+  color: purple;
+}
+
 .top-lower {
   display:flex;
   justify-content: space-between;
