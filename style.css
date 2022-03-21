@@ -33,6 +33,18 @@ p {
   color: lightgray;
 }
 
+/*For a tags styled like buttons*/
+.button {
+  background-color:cornflowerblue;
+  border: none;
+  color: white;
+  padding: 8px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  cursor: pointer;
+}
+
 button {
   color: white;
   background: cornflowerblue;
