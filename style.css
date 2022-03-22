@@ -66,7 +66,12 @@ button {
 
 .tmc {
   display: flex;
-  flex: 1;
+  gap: 8px;
+}
+
+img.lcap {
+  width: 240px;
+  height: 240px;
 }
 
 .mid-mid {
