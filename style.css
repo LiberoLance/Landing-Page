@@ -62,7 +62,6 @@ button {
 .top-mid {
   text-align: center;
   padding: 32px;
-  color: black;
 }
 
 .tmc {
@@ -98,6 +97,10 @@ strong {
 
 h1 {
   color: white;
+}
+
+h1.top-mid {
+  color: black;
 }
 
 button.lmc {
