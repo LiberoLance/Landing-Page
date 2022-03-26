@@ -108,6 +108,16 @@ h1 {
   color: black;
 }
 
+a.button-lmc {
+   border: 2px solid white;
+   border-radius: 8px;
+   background-color: cornflowerblue;
+   color: white;
+   padding: 14px 28px;
+   font-size: 16px;
+   cursor: pointer;
+}
+
 
 .footer {
   text-align: center;
