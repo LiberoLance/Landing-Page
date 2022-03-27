@@ -36,7 +36,7 @@ a {
 }
 
 p {
-  color: lightgray;
+  color: white;
   font-size: 16px;
 }
 
@@ -76,7 +76,7 @@ img.lcap {
 
 .mid-mid {
   padding: 24px;
-  background: lightgray;
+  background: gold;
 }
 
 strong {
@@ -126,5 +126,5 @@ a.button-lmc {
 }
 
 .footer, .top {
-  background: #1c1a3a;
+  background: #03a9f4;
 }
