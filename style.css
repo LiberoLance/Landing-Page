@@ -79,9 +79,14 @@ img.lcap {
   background: gold;
 }
 
+em {
+  color: white;
+}
+
 strong {
   display: flex;
   justify-content: end;
+  color: white;
 }
 
 .low-mid {
